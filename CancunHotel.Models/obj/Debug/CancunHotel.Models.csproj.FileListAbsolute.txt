@@ -1,0 +1,12 @@
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\bin\Debug\CancunHotel.Models.dll.config
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\bin\Debug\CancunHotel.Models.dll
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\bin\Debug\CancunHotel.Models.pdb
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\obj\Debug\CancunHotel.Models.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\obj\Debug\CancunHotel.Models.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\obj\Debug\CancunHotel.Models.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\obj\Debug\CancunHotel.Models.dll
+C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Models\obj\Debug\CancunHotel.Models.pdb
