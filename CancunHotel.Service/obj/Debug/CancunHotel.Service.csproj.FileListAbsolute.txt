@@ -17,3 +17,22 @@ C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Service\bin\D
 C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.DTO.dll
 C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.DTO.pdb
 C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.Service\bin\Debug\AutoMapper.xml
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.Service.dll.config
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.Service.dll
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.Service.pdb
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\AutoMapper.dll
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.DTO.dll
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.Models.dll
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\EntityFramework.dll
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.DTO.pdb
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.Models.pdb
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\CancunHotel.Models.dll.config
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\AutoMapper.xml
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\EntityFramework.xml
+C:\GIT\CancunHotelAPI\CancunHotel.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT\CancunHotelAPI\CancunHotel.Service\obj\Debug\CancunHotel.Service.csprojAssemblyReference.cache
+C:\GIT\CancunHotelAPI\CancunHotel.Service\obj\Debug\CancunHotel.Service.csproj.CoreCompileInputs.cache
+C:\GIT\CancunHotelAPI\CancunHotel.Service\obj\Debug\CancunHotel.Service.csproj.CopyComplete
+C:\GIT\CancunHotelAPI\CancunHotel.Service\obj\Debug\CancunHotel.Service.dll
+C:\GIT\CancunHotelAPI\CancunHotel.Service\obj\Debug\CancunHotel.Service.pdb

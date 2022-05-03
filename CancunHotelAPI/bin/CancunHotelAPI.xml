@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CancunHotelAPI</name>
+    </assembly>
+    <members>
+        <member name="T:CancunHotelAPI.RouteConfig">
+            <summary>
+            Represents route configuration.
+            </summary>
+        </member>
+        <member name="M:CancunHotelAPI.RouteConfig.Configure(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Configures Web API routes.
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="T:CancunHotelAPI.App_Start.SwaggerConfig">
+            <summary>
+            Represents configuration for Swagger and SwaggerUI
+            </summary>
+        </member>
+        <member name="M:CancunHotelAPI.App_Start.SwaggerConfig.Configure(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Configures Swagger and SwaggerUI.
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="T:CancunHotelAPI.Controllers.ReservationDetailController">
+            <summary>
+            Reservation Detail Controller
+            </summary>
+             
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.ReservationDetailController.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.ReservationDetailController.MakeReservation(CancunHotel.DTO.reservationdetailDTO)">
+            <summary>
+            Make a reservation
+            </summary>
+            <remarks>
+            ArrivalDay and DepartureDay has the format dd-MM-yyyy
+            </remarks>        
+            <param name="obj">Reservation object with the information</param>
+            <response code="200">Update successful</response>
+            <returns></returns>
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.ReservationDetailController.GetReservationDetail(System.Int32)">
+            <summary>
+            Get Reservation Detail
+            </summary>
+            <param name="idReservation">Reservation ID to search</param>
+            <returns></returns>
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.ReservationDetailController.Update(CancunHotel.DTO.reservationdetailDTO)">
+            <summary>
+            Method in charge to update the reservation
+            </summary>
+            <remarks>
+            ArrivalDay and DepartureDay has the format dd-MM-yyyy
+            </remarks>        
+            <param name="obj">Reservation Object with the information updated</param>
+            <returns>Tru if the update was successful</returns>
+            <response code="200">Update successful</response>
+            <response code="400">The construction of the object syntax is poorly constructed</response>
+            <response code="500">Internal Server Error. There is an unhandled exception in the code</response>
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.ReservationDetailController.Cancel(CancunHotel.DTO.reservationdetailDTO)">
+            <summary>
+            Method in charge to Cancel the reservation
+            </summary>       
+            <param name="obj">Reservation Object with the information updated</param>
+            <returns>Tru if the update was successful</returns>
+            <response code="200">Update successful</response>
+            <response code="400">The construction of the object syntax is poorly constructed</response>
+            <response code="500">Internal Server Error. There is an unhandled exception in the code</response>
+        </member>
+        <member name="T:CancunHotelAPI.Controllers.RoomsController">
+            <summary>
+            Rooms Controller
+            </summary>
+                    
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.RoomsController.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.RoomsController.GetRooms">
+            <summary>
+            Get Rooms
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CancunHotelAPI.Controllers.RoomsController.GetAvailabilityRooms">
+            <summary>
+            Get Availability Rooms
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CancunHotelAPI.Startup">
+            <summary>
+            Represents the entry point into an application.
+            </summary>
+        </member>
+        <member name="M:CancunHotelAPI.Startup.Configuration(Owin.IAppBuilder)">
+            <summary>
+            Specifies how the ASP.NET application will respond to individual HTTP request.
+            </summary>
+            <param name="app">Instance of <see cref="T:Owin.IAppBuilder"/>.</param>
+        </member>
+    </members>
+</doc>

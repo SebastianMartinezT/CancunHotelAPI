@@ -4,3 +4,9 @@ C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.DTO\obj\Debug
 C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.DTO\obj\Debug\CancunHotel.DTO.csproj.CoreCompileInputs.cache
 C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.DTO\obj\Debug\CancunHotel.DTO.dll
 C:\Users\Sebastian\Desktop\Prueba alten\CancunHotelAPI\CancunHotel.DTO\obj\Debug\CancunHotel.DTO.pdb
+C:\GIT\CancunHotelAPI\CancunHotel.DTO\bin\Debug\CancunHotel.DTO.dll
+C:\GIT\CancunHotelAPI\CancunHotel.DTO\bin\Debug\CancunHotel.DTO.pdb
+C:\GIT\CancunHotelAPI\CancunHotel.DTO\obj\Debug\CancunHotel.DTO.csprojAssemblyReference.cache
+C:\GIT\CancunHotelAPI\CancunHotel.DTO\obj\Debug\CancunHotel.DTO.csproj.CoreCompileInputs.cache
+C:\GIT\CancunHotelAPI\CancunHotel.DTO\obj\Debug\CancunHotel.DTO.dll
+C:\GIT\CancunHotelAPI\CancunHotel.DTO\obj\Debug\CancunHotel.DTO.pdb
