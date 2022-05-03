@@ -29,6 +29,11 @@ _Open the solution_
 From here you can debug or modify the project
 ```
 
+_Run Project_
+```
+when the project is executed locally put swagger so that it loads correctly:
+https://localhost:port/swagger
+```
 
 ## Tests ⚙️
 
